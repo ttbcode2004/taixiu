@@ -143,3 +143,9 @@ h3 {
 .hidden {
   display: none;
 }
+
+@media (max-width: 84em) {
+  html {
+    font-size: 38%;
+  }
+}
